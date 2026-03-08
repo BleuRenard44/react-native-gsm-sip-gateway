@@ -11,14 +11,6 @@ import {
   StatusBar,
 } from 'react-native';
 
-import {
-  Header,
-  LearnMoreLinks,
-  Colors,
-  DebugInstructions,
-  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
-
 //import {ReplaceDialer} from 'react-native-replace-dialer';
 
 export default class App extends Component {
